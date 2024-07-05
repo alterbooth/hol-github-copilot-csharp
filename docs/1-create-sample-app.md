@@ -12,7 +12,7 @@
 作成後、カレントディレクトリを移動しておきます。
 
 ```bash
-dotnet new mvc -f net8.0 -n HolCopilotCSharp
+dotnet new mvc -f net8.0 -n HolCopilotCSharp --kestrelHttpPort 8000 --kestrelHttpsPort 8001
 cd HolCopilotCSharp
 ```
 
