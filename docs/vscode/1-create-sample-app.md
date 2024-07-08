@@ -38,4 +38,4 @@ code .
 ---
 
 - 次： [2. GitHub Copilot](./2-github-copilot.md)
-- TOP： [README.md](./../README.md)
+- TOP： [README.md](./README.md)

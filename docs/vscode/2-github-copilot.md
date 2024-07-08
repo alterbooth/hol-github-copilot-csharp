@@ -185,4 +185,4 @@ GitHub Copilot が提案するコードは必ずしも正しいとは限りま�
 
 - 次： [3. GitHub Copilot Chat](./3-github-copilot-chat.md)
 - 前： [1. サンプル .NET アプリケーションの作成](./1-create-sample-app.md)
-- TOP： [README.md](./../README.md)
+- TOP： [README.md](./README.md)

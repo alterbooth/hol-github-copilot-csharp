@@ -251,4 +251,4 @@ GitHub Copilot Chat を使用すると、生産性とコード品質を向上さ
 ---
 
 - 前： [2. GitHub Copilot](./2-github-copilot.md)
-- TOP： [README.md](./../README.md)
+- TOP： [README.md](./README.md)
