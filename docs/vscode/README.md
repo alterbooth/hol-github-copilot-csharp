@@ -1,6 +1,8 @@
-# hol-copilot-csharp
+# hol-copilot-csharp（Visual Studio Code, GitHub Codespaces 版）
 
 ## ハンズオンの実施に必要なツール
+
+※ GitHub Codespaces を使用する場合は、 GitHub アカウントのみあれば実施可能です。
 
 - .NET 8 SDK
 - Visual Studio Code
