@@ -10,7 +10,7 @@
 ![hello api auto suggestion](./images/2-01_hello_api_auto_suggestion.png)
 
 コードの提案を明示的にトリガーすることもできます。  
-ショートカットキー `Alt + \` を入力することで、コードの提案が表示されます。
+ショートカットキー `Alt + \` を入力することで、コードの提案が表示されます。（もし `Alt + \` で提案が表示されない場合は、文字入力または改行入力を行って数秒待つことで提案が表示されるかどうかを確認してください。）
 
 ### コードの提案を受け入れる
 
@@ -46,7 +46,9 @@ GitHub Copilot のアイコンを押下し、表示されたメニューから `
 
 ![enable completion for markdown](./images/2-05_enable_completion_for_markdown.png)
 
-有効にすると、 Markdown ドキュメントの作成中にも GitHub Copilot からの提案が表示されるようになります。  
+有効にすると、 Markdown ドキュメントの作成中にも GitHub Copilot からの提案が表示されるようになります。
+
+動作を確認するため、 README.md ファイルを新規作成してください。  
 例えば、 `#` を入力すると、ドキュメントのコンテキストに基づいて予想されたものが提案として表示されます。
 
 ![markdown suggestion](./images/2-06_markdown_suggestion.png)
