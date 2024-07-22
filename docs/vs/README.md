@@ -1,4 +1,4 @@
-# hol-copilot-csharp（Visual Studio 版）
+# GitHub Copilot Training for C#（Visual Studio 版）
 
 ## ハンズオンの実施に必要なツール
 
