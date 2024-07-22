@@ -1,4 +1,4 @@
-# hol-copilot-csharp（Visual Studio Code, GitHub Codespaces 版）
+# hol-github-copilot-csharp（Visual Studio Code, GitHub Codespaces 版）
 
 ## ハンズオンの実施に必要なツール
 
